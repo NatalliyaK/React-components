@@ -1,0 +1,25 @@
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+.search-control {
+    width: 45%;
+    min-height: 35px;
+    background: #86c2b5;
+    border: solid 2px gray;
+    padding: 8px;
+    margin: 20px;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.card-list__button {
+    width: 10%;
+}

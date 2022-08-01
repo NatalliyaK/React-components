@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`search-panel component render correctly 1`] = `
+<DocumentFragment>
+  <form
+    class="search"
+  >
+    <input
+      class="search-control"
+      placeholder="Search"
+      type="text"
+      value=""
+    />
+  </form>
+</DocumentFragment>
+`;

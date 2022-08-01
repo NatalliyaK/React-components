@@ -1,0 +1,17 @@
+.check,
+.form {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.form {
+    margin: 0 auto 50px;
+    width: 25%;
+    border: solid 2px mediumseagreen;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+}
